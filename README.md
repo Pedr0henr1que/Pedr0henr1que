@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**Pedr0henr1que/Pedr0henr1que** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_student: I'm a Front end developer :desktop_computer: :keyboard:
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Skills: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,bootstrap,sass,jquery,gulp,vscode,git,github,figma,windows&perline=5" />
+  </a>
+</p>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Links: 
+E-mail: devsphz@gmail.com <br>
+Linkedin: https://www.linkedin.com/in/devphz/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr0henr1que&show_icons=true&theme=gotham&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)

@@ -20,4 +20,4 @@ Linkedin: https://www.linkedin.com/in/devphz/
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr0henr1que&show_icons=true&theme=gotham&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsphz&show_icons=true&theme=gotham&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
